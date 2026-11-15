@@ -1,0 +1,6 @@
+node_modules
+dist
+# werden beim Bauen aus flag-icons und world-atlas erzeugt
+public/flags
+public/outlines
+.claude

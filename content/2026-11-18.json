@@ -1,0 +1,112 @@
+{
+  "datum": "2026-11-18",
+  "schlagzeile": {
+    "platzhalter": true,
+    "fragen": [
+      {
+        "frage": "[PLATZHALTER] News-Frage 1 – hier kommt deine Frage hin",
+        "antworten": [
+          "[Antwort A – richtig]",
+          "[Antwort B]",
+          "[Antwort C]",
+          "[Antwort D]"
+        ],
+        "richtig": 0,
+        "erklaerung": "[PLATZHALTER] Hier steht 1–2 Sätze Erklärung zur richtigen Antwort.",
+        "quelle": {
+          "medium": "[Name des Mediums]",
+          "datum": "18.11.2026"
+        }
+      },
+      {
+        "frage": "[PLATZHALTER] News-Frage 2 – hier kommt deine Frage hin",
+        "antworten": [
+          "[Antwort A – richtig]",
+          "[Antwort B]",
+          "[Antwort C]",
+          "[Antwort D]"
+        ],
+        "richtig": 0,
+        "erklaerung": "[PLATZHALTER] Hier steht 1–2 Sätze Erklärung zur richtigen Antwort.",
+        "quelle": {
+          "medium": "[Name des Mediums]",
+          "datum": "18.11.2026"
+        }
+      },
+      {
+        "frage": "[PLATZHALTER] News-Frage 3 – hier kommt deine Frage hin",
+        "antworten": [
+          "[Antwort A – richtig]",
+          "[Antwort B]",
+          "[Antwort C]",
+          "[Antwort D]"
+        ],
+        "richtig": 0,
+        "erklaerung": "[PLATZHALTER] Hier steht 1–2 Sätze Erklärung zur richtigen Antwort.",
+        "quelle": {
+          "medium": "[Name des Mediums]",
+          "datum": "18.11.2026"
+        }
+      },
+      {
+        "frage": "[PLATZHALTER] News-Frage 4 – hier kommt deine Frage hin",
+        "antworten": [
+          "[Antwort A – richtig]",
+          "[Antwort B]",
+          "[Antwort C]",
+          "[Antwort D]"
+        ],
+        "richtig": 0,
+        "erklaerung": "[PLATZHALTER] Hier steht 1–2 Sätze Erklärung zur richtigen Antwort.",
+        "quelle": {
+          "medium": "[Name des Mediums]",
+          "datum": "18.11.2026"
+        }
+      },
+      {
+        "frage": "[PLATZHALTER] News-Frage 5 – hier kommt deine Frage hin",
+        "antworten": [
+          "[Antwort A – richtig]",
+          "[Antwort B]",
+          "[Antwort C]",
+          "[Antwort D]"
+        ],
+        "richtig": 0,
+        "erklaerung": "[PLATZHALTER] Hier steht 1–2 Sätze Erklärung zur richtigen Antwort.",
+        "quelle": {
+          "medium": "[Name des Mediums]",
+          "datum": "18.11.2026"
+        }
+      }
+    ]
+  },
+  "zeitstrahl": {
+    "ereignisse": [
+      {
+        "text": "Mickey Mouse hat in „Steamboat Willie“ Premiere",
+        "jahr": 1928,
+        "tag": "11-18",
+        "heute": true
+      },
+      {
+        "text": "Karl der Große wird in Rom zum Kaiser gekrönt",
+        "jahr": 800
+      },
+      {
+        "text": "Unabhängigkeitserklärung der USA",
+        "jahr": 1776
+      },
+      {
+        "text": "Wilhelm Conrad Röntgen entdeckt die Röntgenstrahlen",
+        "jahr": 1895
+      },
+      {
+        "text": "Der erste Harry-Potter-Band erscheint",
+        "jahr": 1997
+      }
+    ]
+  },
+  "laenderdetektiv": {
+    "land": "CA"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "datum": "JJJJ-MM-TT",
+  "schlagzeile": {
+    "fragen": [
+      {
+        "frage": "Welche Stadt …?",
+        "antworten": [
+          "Antwort A",
+          "Antwort B",
+          "Antwort C",
+          "Antwort D"
+        ],
+        "richtig": 0,
+        "erklaerung": "Kurze Erklärung, warum A stimmt.",
+        "quelle": {
+          "medium": "tagesschau.de",
+          "datum": "TT.MM.JJJJ",
+          "url": "https://…"
+        }
+      }
+    ]
+  },
+  "zeitstrahl": {
+    "ereignisse": [
+      {
+        "text": "Ereignis, das heute vor X Jahren war",
+        "jahr": 1900,
+        "tag": "MM-TT",
+        "heute": true
+      },
+      {
+        "text": "Ereignis 2",
+        "jahr": 1500
+      },
+      {
+        "text": "Ereignis 3",
+        "jahr": 1800
+      },
+      {
+        "text": "Ereignis 4",
+        "jahr": 1950
+      },
+      {
+        "text": "Ereignis 5",
+        "jahr": 2000
+      }
+    ]
+  },
+  "laenderdetektiv": {
+    "land": "PT"
+  }
+}

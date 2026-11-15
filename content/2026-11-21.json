@@ -1,0 +1,112 @@
+{
+  "datum": "2026-11-21",
+  "schlagzeile": {
+    "platzhalter": true,
+    "fragen": [
+      {
+        "frage": "[PLATZHALTER] News-Frage 1 – hier kommt deine Frage hin",
+        "antworten": [
+          "[Antwort A – richtig]",
+          "[Antwort B]",
+          "[Antwort C]",
+          "[Antwort D]"
+        ],
+        "richtig": 0,
+        "erklaerung": "[PLATZHALTER] Hier steht 1–2 Sätze Erklärung zur richtigen Antwort.",
+        "quelle": {
+          "medium": "[Name des Mediums]",
+          "datum": "21.11.2026"
+        }
+      },
+      {
+        "frage": "[PLATZHALTER] News-Frage 2 – hier kommt deine Frage hin",
+        "antworten": [
+          "[Antwort A – richtig]",
+          "[Antwort B]",
+          "[Antwort C]",
+          "[Antwort D]"
+        ],
+        "richtig": 0,
+        "erklaerung": "[PLATZHALTER] Hier steht 1–2 Sätze Erklärung zur richtigen Antwort.",
+        "quelle": {
+          "medium": "[Name des Mediums]",
+          "datum": "21.11.2026"
+        }
+      },
+      {
+        "frage": "[PLATZHALTER] News-Frage 3 – hier kommt deine Frage hin",
+        "antworten": [
+          "[Antwort A – richtig]",
+          "[Antwort B]",
+          "[Antwort C]",
+          "[Antwort D]"
+        ],
+        "richtig": 0,
+        "erklaerung": "[PLATZHALTER] Hier steht 1–2 Sätze Erklärung zur richtigen Antwort.",
+        "quelle": {
+          "medium": "[Name des Mediums]",
+          "datum": "21.11.2026"
+        }
+      },
+      {
+        "frage": "[PLATZHALTER] News-Frage 4 – hier kommt deine Frage hin",
+        "antworten": [
+          "[Antwort A – richtig]",
+          "[Antwort B]",
+          "[Antwort C]",
+          "[Antwort D]"
+        ],
+        "richtig": 0,
+        "erklaerung": "[PLATZHALTER] Hier steht 1–2 Sätze Erklärung zur richtigen Antwort.",
+        "quelle": {
+          "medium": "[Name des Mediums]",
+          "datum": "21.11.2026"
+        }
+      },
+      {
+        "frage": "[PLATZHALTER] News-Frage 5 – hier kommt deine Frage hin",
+        "antworten": [
+          "[Antwort A – richtig]",
+          "[Antwort B]",
+          "[Antwort C]",
+          "[Antwort D]"
+        ],
+        "richtig": 0,
+        "erklaerung": "[PLATZHALTER] Hier steht 1–2 Sätze Erklärung zur richtigen Antwort.",
+        "quelle": {
+          "medium": "[Name des Mediums]",
+          "datum": "21.11.2026"
+        }
+      }
+    ]
+  },
+  "zeitstrahl": {
+    "ereignisse": [
+      {
+        "text": "Erste bemannte Fahrt mit einem Heißluftballon (Montgolfière) in Paris",
+        "jahr": 1783,
+        "tag": "11-21",
+        "heute": true
+      },
+      {
+        "text": "Prager Fenstersturz – Beginn des Dreißigjährigen Kriegs",
+        "jahr": 1618
+      },
+      {
+        "text": "Charles Darwin veröffentlicht „Über die Entstehung der Arten“",
+        "jahr": 1859
+      },
+      {
+        "text": "Watson und Crick beschreiben die Doppelhelix der DNA",
+        "jahr": 1953
+      },
+      {
+        "text": "Deutsche Wiedervereinigung",
+        "jahr": 1990
+      }
+    ]
+  },
+  "laenderdetektiv": {
+    "land": "AT"
+  }
+}

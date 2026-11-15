@@ -1,0 +1,112 @@
+{
+  "datum": "2026-11-19",
+  "schlagzeile": {
+    "platzhalter": true,
+    "fragen": [
+      {
+        "frage": "[PLATZHALTER] News-Frage 1 – hier kommt deine Frage hin",
+        "antworten": [
+          "[Antwort A – richtig]",
+          "[Antwort B]",
+          "[Antwort C]",
+          "[Antwort D]"
+        ],
+        "richtig": 0,
+        "erklaerung": "[PLATZHALTER] Hier steht 1–2 Sätze Erklärung zur richtigen Antwort.",
+        "quelle": {
+          "medium": "[Name des Mediums]",
+          "datum": "19.11.2026"
+        }
+      },
+      {
+        "frage": "[PLATZHALTER] News-Frage 2 – hier kommt deine Frage hin",
+        "antworten": [
+          "[Antwort A – richtig]",
+          "[Antwort B]",
+          "[Antwort C]",
+          "[Antwort D]"
+        ],
+        "richtig": 0,
+        "erklaerung": "[PLATZHALTER] Hier steht 1–2 Sätze Erklärung zur richtigen Antwort.",
+        "quelle": {
+          "medium": "[Name des Mediums]",
+          "datum": "19.11.2026"
+        }
+      },
+      {
+        "frage": "[PLATZHALTER] News-Frage 3 – hier kommt deine Frage hin",
+        "antworten": [
+          "[Antwort A – richtig]",
+          "[Antwort B]",
+          "[Antwort C]",
+          "[Antwort D]"
+        ],
+        "richtig": 0,
+        "erklaerung": "[PLATZHALTER] Hier steht 1–2 Sätze Erklärung zur richtigen Antwort.",
+        "quelle": {
+          "medium": "[Name des Mediums]",
+          "datum": "19.11.2026"
+        }
+      },
+      {
+        "frage": "[PLATZHALTER] News-Frage 4 – hier kommt deine Frage hin",
+        "antworten": [
+          "[Antwort A – richtig]",
+          "[Antwort B]",
+          "[Antwort C]",
+          "[Antwort D]"
+        ],
+        "richtig": 0,
+        "erklaerung": "[PLATZHALTER] Hier steht 1–2 Sätze Erklärung zur richtigen Antwort.",
+        "quelle": {
+          "medium": "[Name des Mediums]",
+          "datum": "19.11.2026"
+        }
+      },
+      {
+        "frage": "[PLATZHALTER] News-Frage 5 – hier kommt deine Frage hin",
+        "antworten": [
+          "[Antwort A – richtig]",
+          "[Antwort B]",
+          "[Antwort C]",
+          "[Antwort D]"
+        ],
+        "richtig": 0,
+        "erklaerung": "[PLATZHALTER] Hier steht 1–2 Sätze Erklärung zur richtigen Antwort.",
+        "quelle": {
+          "medium": "[Name des Mediums]",
+          "datum": "19.11.2026"
+        }
+      }
+    ]
+  },
+  "zeitstrahl": {
+    "ereignisse": [
+      {
+        "text": "Abraham Lincoln hält die Gettysburg Address",
+        "jahr": 1863,
+        "tag": "11-19",
+        "heute": true
+      },
+      {
+        "text": "Isaac Newton veröffentlicht die „Principia“",
+        "jahr": 1687
+      },
+      {
+        "text": "Schlacht bei Waterloo: Napoleons letzte Niederlage",
+        "jahr": 1815
+      },
+      {
+        "text": "Bau der Berliner Mauer",
+        "jahr": 1961
+      },
+      {
+        "text": "Der Euro wird als Bargeld eingeführt",
+        "jahr": 2002
+      }
+    ]
+  },
+  "laenderdetektiv": {
+    "land": "PE"
+  }
+}
